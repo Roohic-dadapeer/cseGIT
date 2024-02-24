@@ -1,2 +1,2 @@
 import java .util.Scanner;
-system,.out,println("")
+system.out,println("");
